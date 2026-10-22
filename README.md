@@ -1,17 +1,17 @@
-# DAP - Database Application Programming
+# DAP – Database Application Programming
 
-Repository containing laboratory exercises and the final project for the **Database Application Programming** course at the Poznan University of Technology.
+Repository containing laboratory exercises and the final project for the **Database Application Programming (DAP)** course at Poznan University of Technology.
 
 ## Repository Structure
 
-- [`project/`](./project) – Final project implementations (PostgreSQL B*-Tree Index Performance evaluation & Oracle University Database schema).
-- [`laboratory_exercises/`](./laboratory_exercises) – Practical laboratory sessions covering SQL DDL/DML, PL/SQL fundamentals, advanced control structures, and database triggers (Labs 1–4).
+- [`Laboratory exercises/`](./Laboratory%20exercises/) – Practical laboratory sessions covering SQL DDL/DML, PL/SQL fundamentals, advanced control structures, and database triggers (Labs 1–4).
+- [`Database_Application_Programming_Final_Project_Budimir.pdf`](./Database_Application_Programming_Final_Project_Budimir.pdf) – Final project report for the Database Application Programming course.
 
 ## Technologies Used
 
-- **Databases:** PostgreSQL 18, Oracle Database (PL/SQL)
-- **Languages:** SQL, PL/SQL
-- **Tools:** Oracle SQL Developer, `psql`, `EXPLAIN ANALYZE`
+- **Database:** Oracle Database
+- **Language:** SQL, PL/SQL
+- **Tool:** Oracle SQL Developer
 
 ## Author
 
