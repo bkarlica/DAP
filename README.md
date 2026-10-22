@@ -1,6 +1,6 @@
 # DAP - Database Application Programming
 
-Repository containing coursework, laboratory exercises, and the final project for the **Database Application Programming** course at the Poznan University of Technology.
+Repository containing laboratory exercises and the final project for the **Database Application Programming** course at the Poznan University of Technology.
 
 ## Repository Structure
 
