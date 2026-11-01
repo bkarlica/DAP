@@ -5,7 +5,7 @@ Repository containing laboratory exercises and the final project for the Databas
 ## Repository Structure
 
 * [`Laboratory exercises`](DAP/Laboratory%20exercises/) – Laboratory sessions covering SQL DDL/DML, PL/SQL fundamentals, control structures, cursors and loops, hierarchical queries and database triggers (Labs 1-4).
-* `Final project/` – A university database (subjects, students, teachers, grades) with an ER diagram, sample data and analytical SQL queries.
+* [`Final project`](Final%20project/) – A university database (subjects, students, teachers, grades) with an ER diagram, sample data and analytical SQL queries.
 
 ## Technologies Used
 
