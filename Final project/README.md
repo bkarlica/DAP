@@ -29,6 +29,6 @@ The report contains the ER diagrams, the full `CREATE TABLE` script and the `INS
 
 ## Files
 
-* `Database_Application_Programming_Final_Project_Budimir.pdf` – full report with code, diagrams and query outputs
+* [`Database_Application_Programming_Final_Project_Budimir.pdf`](`Database_Application_Programming_Final_Project_Budimir.pdf`) – full report with code, diagrams and query outputs
 
 **Technologies:** Oracle Database, SQL, Oracle SQL Developer
