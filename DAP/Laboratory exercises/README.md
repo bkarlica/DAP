@@ -1,6 +1,6 @@
 # Laboratory Exercises
 
-Four laboratory sessions for the Database Application Programming course at Poznan University of Technology. Each report (PDF) contains the code and the outputs.
+Laboratory exercises for the Database Application Programming course at Poznan University of Technology. Each report (PDF) contains the code and the outputs.
 
 ## Lab 1: Basic operations on a database
 Creating the `Students`, `Courses` and `Grades` tables with primary and foreign keys, inserting data, filtering and joining data (`ORDER BY`, `JOIN`), and modifying data with subqueries (deleting the grades of the course with the lowest average, lowering the grades of the course with the highest average).
